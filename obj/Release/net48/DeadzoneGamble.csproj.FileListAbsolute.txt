@@ -1,0 +1,12 @@
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\DeadzoneGamble.csproj.AssemblyReference.cache
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\DeadzoneGamble.GeneratedMSBuildEditorConfig.editorconfig
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\DeadzoneGamble.AssemblyInfoInputs.cache
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\DeadzoneGamble.AssemblyInfo.cs
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\DeadzoneGamble.csproj.CoreCompileInputs.cache
+E:\UnturnedPlugins\DeadzoneGamble\bin\Release\net48\DeadzoneGamble.dll
+E:\UnturnedPlugins\DeadzoneGamble\bin\Release\net48\DeadzoneGamble.pdb
+E:\UnturnedPlugins\DeadzoneGamble\bin\Release\net48\Newtonsoft.Json.dll
+E:\UnturnedPlugins\DeadzoneGamble\bin\Release\net48\Uconomy.dll
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\Deadzone.9A80F0B3.Up2Date
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\DeadzoneGamble.dll
+E:\UnturnedPlugins\DeadzoneGamble\obj\Release\net48\DeadzoneGamble.pdb

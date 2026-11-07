@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESsZhemhGgg=",
+  "success": true,
+  "projectFilePath": "E:\\UnturnedPlugins\\DeadzoneGamble\\DeadzoneGamble.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heath\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\restoremonarchy.rocketredist\\3.26.3.14\\restoremonarchy.rocketredist.3.26.3.14.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\restoremonarchy.unturnedredist\\3.26.3.14\\restoremonarchy.unturnedredist.3.26.3.14.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\uconomy\\1.0.0\\uconomy.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

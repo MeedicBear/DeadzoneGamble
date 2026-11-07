@@ -1,0 +1,72 @@
+[h1]💀 DEADZONE GAMBLE — 1v1 RUSSIAN ROULETTE (UI & AUDIO MASTERBUNDLE)[/h1]
+[b]Developed by Vortix Studios[/b]
+
+[h2]📖 Overview[/h2]
+Welcome to [b]Deadzone Gamble[/b], an intense, high-stakes 1v1 Russian Roulette duel minigame for Unturned! Challenge your rival, put your wealth or carried gear on the line, face each other across the revolver cylinder, and pull the trigger. Each empty chamber escalates the fatal odds until the lethal bullet fires.
+
+This workshop item contains the standalone Glazier user interface, procedural graphics, and audio sound effects built for the [b]Deadzone Gamble[/b] server plugin, powered by [b]UnturnedForge[/b].
+
+[hr][/hr]
+
+[h2]✨ Features[/h2]
+[list]
+[*] [b]Sleek Glazier 1v1 Duel HUD:[/b] Dark post-apocalyptic UI design matching Unturned's aesthetic.
+[*] [b]Live Steam Avatars:[/b] Dynamic circular player avatars with zero client flickering.
+[*] [b]Escalating Russian Roulette Odds:[/b] Live calculated fatal percentages that scale with every trigger pull (16.7% → 20.0% → 25.0% → 33.3% → 50.0% → 100.0%).
+[*] [b]Tactical Cylinder Spin:[/b] Re-randomize the cylinder when the odds get too dangerous.
+[*] [b]Flexible Stakes:[/b] Supports Uconomy cash, Unturned EXP, full carried item drops on death, or pure honor duels.
+[*] [b]Arena Teleportation & In-Place Duels:[/b] Duel where you stand or teleport to designated arena spawns with an automatic post-match looting timer.
+[*] [b]Custom Synthesized Audio:[/b] Dry-fire hammer clicks, rapid cylinder ratchet spin, heavy gunshot explosion, and victory sting.
+[/list]
+
+[hr][/hr]
+
+[h2]🆔 Effect & Audio IDs[/h2]
+[table]
+[tr]
+[th]Asset Name[/th]
+[th]Effect ID[/th]
+[th]Description[/th]
+[/tr]
+[tr]
+[td][b]DeadzoneGambleMenu[/b][/td]
+[td][b]54800[/b][/td]
+[td]Main 1v1 Duel Interface (Key: 5480)[/td]
+[/tr]
+[tr]
+[td][b]DeadzoneGambleClickAudio[/b][/td]
+[td][b]54801[/b][/td]
+[td]Revolver Dry-Fire Hammer Click SFX[/td]
+[/tr]
+[tr]
+[td][b]DeadzoneGambleSpinAudio[/b][/td]
+[td][b]54802[/b][/td]
+[td]Revolver Cylinder Ratchet Spin SFX[/td]
+[/tr]
+[tr]
+[td][b]DeadzoneGambleBangAudio[/b][/td]
+[td][b]54803[/b][/td]
+[td]Lethal Gunshot Bang / Elimination SFX[/td]
+[/tr]
+[tr]
+[td][b]DeadzoneGambleWinAudio[/b][/td]
+[td][b]54804[/b][/td]
+[td]Duel Victory Chime / Fanfare SFX[/td]
+[/tr]
+[/table]
+
+[hr][/hr]
+
+[h2]🌐 Download Server Plugin[/h2]
+This workshop masterbundle requires the official [b]Deadzone Gamble RocketMod Plugin[/b] to function on your Unturned server:
+
+👉 [b]Get the Plugin Here:[/b] [url=https://www.unturnedforge.com/plugin/32]https://www.unturnedforge.com/plugin/32[/url]
+Browse more Unturned plugins & mods at [url=https://www.unturnedforge.com/]UnturnedForge.com[/url].
+
+[hr][/hr]
+
+[h2]⚠️ Disclaimers & Notice[/h2]
+[list]
+[*] [b]AI-Assisted Tools Notice:[/b] Generative AI-assisted tooling was utilized in parts of the creative design and technical development workflow for this project in collaboration with human developers.
+[*] [b]Strict Copyright & No-Reupload Policy:[/b] This workshop item, including all bundled 3D prefabs, textures, audio assets, and UI code, is the intellectual property of [b]Vortix Studios[/b]. You are [b]NOT[/b] permitted to reupload, unpack, modify, repackage, or redistribute this content to the Steam Workshop or third-party platforms without explicit permission.
+[/list]

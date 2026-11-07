@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>MeedicBear.DeadzoneGamble</RootNamespace>
+    <AssemblyName>DeadzoneGamble</AssemblyName>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestoreMonarchy.RocketRedist" Version="3.26.3.14" ExcludeAssets="runtime" />
+    <PackageReference Include="RestoreMonarchy.UnturnedRedist" Version="3.26.3.14" ExcludeAssets="runtime" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Uconomy" Version="1.0.0" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+</Project>

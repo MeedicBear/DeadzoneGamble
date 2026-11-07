@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\UnturnedPlugins\\DeadzoneGamble\\DeadzoneGamble.csproj": {}
+  },
+  "projects": {
+    "E:\\UnturnedPlugins\\DeadzoneGamble\\DeadzoneGamble.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\UnturnedPlugins\\DeadzoneGamble\\DeadzoneGamble.csproj",
+        "projectName": "DeadzoneGamble",
+        "projectPath": "E:\\UnturnedPlugins\\DeadzoneGamble\\DeadzoneGamble.csproj",
+        "packagesPath": "C:\\Users\\heath\\.nuget\\packages\\",
+        "outputPath": "E:\\UnturnedPlugins\\DeadzoneGamble\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\heath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestoreMonarchy.RocketRedist": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[3.26.3.14, )"
+            },
+            "RestoreMonarchy.UnturnedRedist": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[3.26.3.14, )"
+            },
+            "Uconomy": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
